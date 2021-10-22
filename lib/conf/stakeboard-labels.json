@@ -1,0 +1,93 @@
+{
+  "labels": [
+    {
+      "name": "Hosting",
+      "short_name": "hosting",
+      "description": "Type of infrastructure the Stake Pool is running on, eg. Cloud, Bare Metal, Mix",
+      "subcategories": [
+        {
+          "name": "Cloud",
+          "short_name": "cloud",
+          "description": "Stake Pool is entirely running in the Cloud"
+        },
+        {
+          "name": "Bare Metal",
+          "short_name": "bare_metal",
+          "description": "Stake Pool is entirely running on Bare Metal"
+        },
+        {
+          "name": "Mix",
+          "short_name": "mix",
+          "description": "Stake Pool is hosted on a combination of Cloud and Bare Metal resources"
+        }
+      ]
+    },
+    {
+      "name": "Charity",
+      "short_name": "charity",
+      "description": "Charity organizations. Subcategories are based on the following breakdown: https://topnonprofits.com/types-of-charities/",
+      "subcategories": [
+        {
+          "name": "Animals",
+          "short_name": "animals",
+          "description": "Charity organizations focused on Wildlife conservation organizations, Pet and Animal Welfare Organizations, Hunting & Fishing Conservation Groups, Zoos and Aquariums."
+        },
+        {
+          "name": "Environmental",
+          "short_name": "environment",
+          "description": "Environmental Charities focus on ways to promote preservation, appreciation, and sustainable development for the environment."
+        },
+        {
+          "name": "Non-governmental organizations",
+          "short_name": "ngo",
+          "description": "Charity organizations focused on International Development NGOs, Disaster Relief & Humanitarian NGOs, Peace & Human Rights NGOs, Conservation NGOs, Child Sponsorship Organizations"
+        },
+        {
+          "name": "Health",
+          "short_name": "health",
+          "description": "Charity organizations focused on Disease & Disorder, Medical Services & Treatment, Medical Research Charities, Patient and Family Support Charities"
+        },
+        {
+          "name": "Education",
+          "short_name": "charity_education",
+          "description": "Charity organizations focused on support students from every age group. Some serve as the educational institutions while focus on making education more accessible and effective."
+        },
+        {
+          "name": "Arts & Culture",
+          "short_name": "arts_culture",
+          "description": "Charity organizations focused on supporting Museums & Art Galleries, Performing Arts, Libraries & Historical Societies, Public Broadcasting and Media"
+        }
+      ]
+    },
+    {
+      "name": "ITN",
+      "short_name": "itn",
+      "description": "Stake Pool that was part of the Incentivized Test Net"
+    },
+    {
+      "name": "Contributor (Builder)",
+      "short_name": "builder",
+      "description": "Stake Pool run by Cardano builders. Eg. Software, Infrastructure"
+    },
+    {
+      "name": "Women in Blockchain",
+      "short_name": "wib",
+      "description": "Stake Pool run by a woman"
+    },
+    {
+      "name": "Education",
+      "short_name": "education",
+      "description": "Stake Pool run by someone whose main focus is to create blockchain educational content"
+    },
+    {
+      "name": "Content creator",
+      "short_name": "content_creator",
+      "description": "Stake Pool run by a content creator. Eg YouTuber, TikToker."
+    },
+    {
+      "name": "(Fair) Initial Stakepool Offering",
+      "short_name": "iso",
+      "description": "Stake Pool part of an ISO/FISO"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "stakeboard-labels-lib",
+  "base_url": "https://api.stakeboard.net",
+  "imports": [
+  ],
+  "enums": {
+  },
+  "unions": {
+  },
+  "models": {
+    "stakepool_label": {
+      "fields": [
+        {
+          "name": "name",
+          "type": "string"
+        },
+        {
+          "name": "short_name",
+          "type": "string"
+        },
+        {
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "name": "subcategories",
+          "type": "[stakepool_label]",
+          "required": "false"
+        }
+      ]
+    },
+    "stakepool_labels": {
+      "fields": [
+        {
+          "name": "labels",
+          "type": "[stakepool_label]"
+        }
+      ]
+    }
+  },
+  "resources": {
+  }
+}

@@ -1,0 +1,7 @@
+code:
+  stakeboard:
+    stakeboard-labels-lib:
+      version: latest
+      generators:
+        play_2_x_json:
+          target: lib/app/generated/model
