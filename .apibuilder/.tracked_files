@@ -2,4 +2,4 @@
 stakeboard:
   stakeboard-labels-lib:
     play_2_x_json:
-    - lib/app/generated/model/StakeboardStakeboardLabelsLibV0Models.scala
+    - lib/test/generated/model/StakeboardStakeboardLabelsLibV0Models.scala
