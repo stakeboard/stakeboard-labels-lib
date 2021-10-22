@@ -30,6 +30,7 @@
       ]
     },
     "stakepool_labels": {
+      "plural": "stakepool_labels",
       "fields": [
         {
           "name": "labels",
