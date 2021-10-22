@@ -1,17 +1,15 @@
 name := """stakeboard-labels-lib"""
 organization := "net.stakeboard"
 
-ThisBuild / version := "0.0.5"
+version := "0.0.6"
 
-ThisBuild / scalaVersion := "2.13.6"
+scalaVersion := "2.13.6"
 
 // Required to pull some libraries built locally
-ThisBuild / resolvers += Resolver.mavenLocal
+resolvers += Resolver.mavenLocal
 
-lazy val lib = (project in file("lib"))
-  .enablePlugins(PlayScala)
-  .settings(
-    libraryDependencies ++= Seq(
-      "org.scalatestplus.play" %% "scalatestplus-play" % "5.0.0" % Test
-    )
-  )
+enablePlugins(PlayScala)
+
+libraryDependencies ++= Seq(
+  "org.scalatestplus.play" %% "scalatestplus-play" % "5.0.0" % Test
+)
