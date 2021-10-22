@@ -4,4 +4,4 @@ code:
       version: latest
       generators:
         play_2_x_json:
-          target: lib/app/generated/model
+          target: lib/test/generated/model
