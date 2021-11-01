@@ -7,17 +7,17 @@
       "subcategories": [
         {
           "name": "Cloud",
-          "short_name": "cloud",
+          "short_name": "hosting_cloud",
           "description": "Stake Pool is entirely running in the Cloud"
         },
         {
           "name": "Bare Metal",
-          "short_name": "bare_metal",
+          "short_name": "hosting_bare_metal",
           "description": "Stake Pool is entirely running on Bare Metal"
         },
         {
           "name": "Mix",
-          "short_name": "mix",
+          "short_name": "hosting_mix",
           "description": "Stake Pool is hosted on a combination of Cloud and Bare Metal resources"
         }
       ]
@@ -29,32 +29,32 @@
       "subcategories": [
         {
           "name": "Animals",
-          "short_name": "animals",
+          "short_name": "charity_animals",
           "description": "Charity organizations focused on Wildlife conservation organizations, Pet and Animal Welfare Organizations, Hunting & Fishing Conservation Groups, Zoos and Aquariums."
         },
         {
           "name": "Environmental",
-          "short_name": "environment",
+          "short_name": "charity_environment",
           "description": "Environmental Charities focus on ways to promote preservation, appreciation, and sustainable development for the environment."
         },
         {
           "name": "Non-governmental organizations",
-          "short_name": "ngo",
+          "short_name": "charity_ngo",
           "description": "Charity organizations focused on International Development NGOs, Disaster Relief & Humanitarian NGOs, Peace & Human Rights NGOs, Conservation NGOs, Child Sponsorship Organizations"
         },
         {
           "name": "Health",
-          "short_name": "health",
+          "short_name": "charity_health",
           "description": "Charity organizations focused on Disease & Disorder, Medical Services & Treatment, Medical Research Charities, Patient and Family Support Charities"
         },
         {
           "name": "Education",
-          "short_name": "charity_education",
+          "short_name": "charity_charity_education",
           "description": "Charity organizations focused on support students from every age group. Some serve as the educational institutions while focus on making education more accessible and effective."
         },
         {
           "name": "Arts & Culture",
-          "short_name": "arts_culture",
+          "short_name": "charity_arts_culture",
           "description": "Charity organizations focused on supporting Museums & Art Galleries, Performing Arts, Libraries & Historical Societies, Public Broadcasting and Media"
         }
       ]
