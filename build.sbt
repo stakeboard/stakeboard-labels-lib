@@ -1,7 +1,7 @@
 name := """stakeboard-labels-lib"""
 organization := "net.stakeboard"
 
-version := "0.0.8"
+version := "0.0.9"
 
 scalaVersion := "2.13.6"
 
