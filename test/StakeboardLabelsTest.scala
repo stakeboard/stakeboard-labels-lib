@@ -58,7 +58,7 @@ class StakeboardLabelsTest extends WordSpec with MustMatchers with OptionValues 
             StakepoolLabel("Environmental", "charity_environment", "Environmental Charities focus on ways to promote preservation, appreciation, and sustainable development for the environment."),
             StakepoolLabel("Non-governmental organizations", "charity_ngo", "Charity organizations focused on International Development NGOs, Disaster Relief & Humanitarian NGOs, Peace & Human Rights NGOs, Conservation NGOs, Child Sponsorship Organizations"),
             StakepoolLabel("Health", "charity_health", "Charity organizations focused on Disease & Disorder, Medical Services & Treatment, Medical Research Charities, Patient and Family Support Charities"),
-            StakepoolLabel("Education", "charity_charity_education", "Charity organizations focused on support students from every age group. Some serve as the educational institutions while focus on making education more accessible and effective."),
+            StakepoolLabel("Education", "charity_education", "Charity organizations focused on support students from every age group. Some serve as the educational institutions while focus on making education more accessible and effective."),
             StakepoolLabel("Arts & Culture", "charity_arts_culture", "Charity organizations focused on supporting Museums & Art Galleries, Performing Arts, Libraries & Historical Societies, Public Broadcasting and Media")
           ))),
         StakepoolLabel("ITN", "itn", "Stake Pool that was part of the Incentivized Test Net"),
